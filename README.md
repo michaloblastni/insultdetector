@@ -15,6 +15,9 @@ Amazon: https://www.amazon.com/MUSE-Meditation-Biofeedback-Responsive-Neurofeedb
 
 You can use any computer that runs Python 3.
 
+# Questions?
+Ask at https://github.com/michaloblastni/insultdetector/discussions/1
+
 # Applied research
 In applied research, you start with a problem that needs solving. You do a literature review and study previous solutions to the problem. Then, you should synthesize a new solution from the existing ones, and it should involve extending them in a meaningful way. 
 
