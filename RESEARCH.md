@@ -1,9 +1,6 @@
 # Introduction
-"BCIs measure brain activity and translate it into commands for a computer or other device, allowing users to control machines and devices using only their thoughts." [1]
+Targeted individuals are researching an undisclosed bidirectional BCI that was extended in a private research lab to work from a distance. "BCIs measure brain activity and translate it into commands for a computer or other device, allowing users to control machines and devices using only their thoughts." [1]
 "Unidirectional BCIs either receive signals from the brain or send them to it, while bidirectional BCIs allow for information exchange in both directions, enabling control of external devices by the brain." [1]
-
-## Problem statement
-Targeted individuals are researching an undisclosed bidirectional BCI that was extended in a private research lab to work from a distance.
 
 ## Research question
 Is the clandestine communication experienced by targeted individuals detectable on EEG?
