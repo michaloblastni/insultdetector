@@ -11,7 +11,7 @@ Is the clandestine communication experienced by targeted individuals detectable 
 # Method
 This study will use a controlled experiment as its research method. 
 It is a controlled experiment with a cheap BCI device (Muse 2).
-A targeted individual will record his EEG stream and label times in the EEG stream from/to when clandestine communication was heard.
+A targeted individual will record his EEG stream using Mind Monitor [2] and label times in the EEG stream from/to when clandestine communication was heard.
 Then, an AI model will be trained from a data set of labeled recorded EEG data.
 The AI model will be implemented in Python to perform feature detection.
 The AI model's capability in detecting the hidden communication will be evaluated on a real-time EEG stream with 
@@ -27,3 +27,4 @@ The AI model's capability in detecting the hidden communication will be evaluate
 
 # References
 [1] Peksa, J. and Mamchur, D., 2023. State-of-the-art on brain-computer interface technology. Sensors, 23(13), p.6001, URL: https://www.mdpi.com/1424-8220/23/13/6001 
+[2] Mind Monitor (a smartphone application from App Store or Play Store). URL https://mind-monitor.com/
