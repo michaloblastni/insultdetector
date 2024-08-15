@@ -27,4 +27,5 @@ The AI model's capability in detecting the hidden communication will be evaluate
 
 # References
 [1] Peksa, J. and Mamchur, D., 2023. State-of-the-art on brain-computer interface technology. Sensors, 23(13), p.6001, URL: https://www.mdpi.com/1424-8220/23/13/6001 
-[2] Mind Monitor (a smartphone application from App Store or Play Store). URL https://mind-monitor.com/
+
+[2] Mind Monitor (a smartphone application from App Store or Play Store). URL: https://mind-monitor.com/
