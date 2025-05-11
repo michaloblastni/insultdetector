@@ -1,0 +1,6 @@
+pylsl==1.16.2
+numpy
+scipy
+pyqt5
+matplotlib
+scikit-learn
