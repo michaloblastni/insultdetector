@@ -4,6 +4,14 @@ Victims report hearing insults, threats and malicious disinformation. Insults ar
 
 The application is currently experimental and needs testing.
 
+## ⚠️ Disclaimer
+This project is an experimental EEG signal processing and machine learning tool.
+It is designed to allow users to label and train models for detecting perceptual anomalies — particularly speech-like events perceived internally or without clear external auditory source.
+
+The tool is intended solely for applied research and personal experimentation.
+It does not diagnose medical conditions or determine external signal sources.
+Use at your own discretion.
+
 # Hardware requirements
 Purchase a cheap unidirectional BCI device for experiments at home. 
 One option is Muse 2 which connects to your computer via Bluetooth.
