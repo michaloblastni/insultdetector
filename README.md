@@ -39,4 +39,4 @@ User story 3: A user will train an AI model for feature detection to detect insu
 User story 4: A user will process his EEG data in real-time and the application will display a warning using the trained AI model when any insulting starts and hide the warning when it ends.
 
 # Additional resources for researchers
-If you want to become qualified in the underlying science that explains how BCI and EEG work, read [https://www.shorturl.at/hA0pe](https://www.tumblr.com/bidirectionalbci/757306815507742720/the-science-of-a-bidirectional-brain-computer)](https://www.tumblr.com/bidirectionalbci/757306815507742720/the-science-of-a-bidirectional-brain-computer) 
+If you want to become qualified in the underlying science that explains how BCI and EEG work, read [https://www.tumblr.com/bidirectionalbci/757306815507742720/the-science-of-a-bidirectional-brain-computer](https://www.tumblr.com/bidirectionalbci/757306815507742720/the-science-of-a-bidirectional-brain-computer) 
